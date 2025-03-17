@@ -1,6 +1,6 @@
 # Emotion Classification of Natural Language
 
-This repository is part of the CS 3780/5780 Creative Project. It contains a complete machine learning workflow that classifies text into one of 28 emotion categories using several models, including:
+This repository contains a complete machine learning workflow that classifies text into one of 28 emotion categories using several models, including:
 
 - A Bag-of-Words based feed-forward neural network (implemented in PyTorch)
 - A gradient-boosted decision tree classifier (using XGBoost)
